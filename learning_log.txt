@@ -33,3 +33,12 @@ I checked the repository to make sure all files were uploaded correctly and prop
 
 Through this process, I improved my understanding of managing project files and maintaining a complete machine learning project on GitHub.
 _________________________________________________________________________
+Date: 2026-03-02
+
+Today I worked on improving the presentation of my Family Expense Prediction Machine Learning project on GitHub. 
+I created a screenshots folder and uploaded the output images, including the homepage, input form, prediction result, and MongoDB stored data. 
+I also updated the README.md file by adding these screenshots so that the project output can be clearly seen and understood.
+
+This helped me learn how to present a project in a more professional way and how to properly organize and document project outputs on GitHub.
+Through this process, I improved my understanding of project documentation and repository management.
+__________________________________________________________________________
