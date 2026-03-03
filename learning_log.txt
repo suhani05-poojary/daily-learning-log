@@ -42,3 +42,9 @@ I also updated the README.md file by adding these screenshots so that the projec
 This helped me learn how to present a project in a more professional way and how to properly organize and document project outputs on GitHub.
 Through this process, I improved my understanding of project documentation and repository management.
 __________________________________________________________________________
+Date: 2026-03-03
+
+Today I started preparing for my internal lab exam. 
+There are seven programs in the syllabus, so I began revising and practicing them one by one.
+I focused on understanding the logic properly instead of just memorizing the code.
+__________________________________________________________________________
