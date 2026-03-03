@@ -44,7 +44,8 @@ Through this process, I improved my understanding of project documentation and r
 __________________________________________________________________________
 Date: 2026-03-03
 
-Today I started preparing for my internal lab exam. 
+Today I started preparing for my internal ds-2 lab exam. 
 There are seven programs in the syllabus, so I began revising and practicing them one by one.
 I focused on understanding the logic properly instead of just memorizing the code.
 __________________________________________________________________________
+
