@@ -48,4 +48,10 @@ Today I started preparing for my internal ds-2 lab exam.
 There are seven programs in the syllabus, so I began revising and practicing them one by one.
 I focused on understanding the logic properly instead of just memorizing the code.
 __________________________________________________________________________
+Date: 2026-03-04
 
+Today I learned the Randomized Quick Sort algorithm. 
+I understood how choosing a random pivot helps reduce the probability of the worst-case time complexity compared to normal Quick Sort.
+I implemented the algorithm in C and tested it with different input arrays to verify correctness. 
+I also improved my understanding of recursion and partition logic.
+__________________________________________________________________________
