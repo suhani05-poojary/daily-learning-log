@@ -71,5 +71,8 @@ I studied collision resolution techniques like linear probing and quadratic prob
 
 This helped me understand how hash tables perform efficient searching and insertion operations.
 
+Code Practice:
+Implemented hashing techniques in C.
 __________________________________________________________________________
+
 
