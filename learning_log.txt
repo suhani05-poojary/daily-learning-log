@@ -54,4 +54,22 @@ Today I learned the Randomized Quick Sort algorithm.
 I understood how selecting a random pivot changes the behavior of Quick Sort and helps in achieving better performance in most cases.
 I also improved my understanding of recursion and partition logic.
 __________________________________________________________________________
+Date: 2026-03-05
+
+Topic: Hashing and Collision Handling
+
+Key Concepts:
+- Hash Function
+- Hash Table
+- Linear Probing
+- Quadratic Probing
+
+What I Learned:
+Today I learned how hash functions are used to map keys to indices in a hash table. 
+I understood how collisions occur when two keys map to the same index. 
+I studied collision resolution techniques like linear probing and quadratic probing to find the next available slot in the table.
+
+This helped me understand how hash tables perform efficient searching and insertion operations.
+
+__________________________________________________________________________
 
