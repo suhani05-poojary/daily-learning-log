@@ -74,5 +74,19 @@ This helped me understand how hash tables perform efficient searching and insert
 Code Practice:
 Implemented hashing techniques in C.
 __________________________________________________________________________
+Date: 2026-03-06
 
+Topic: Running C Programs using GCC
+
+Key Concepts:
+- GCC Compiler
+- Compiling C Programs
+- Debugging Errors
+
+What I Learned:
+Today I tried running the Randomized Quick Sort and Hashing programs that I had written earlier.
+I installed the MinGW compiler and tried compiling the programs using GCC in the terminal. 
+While compiling, I faced some errors and spent time checking the commands and trying to fix the issue. 
+Even though the program didn’t run successfully today, I understood more about how C programs are compiled and how errors can occur during execution.
+___________________________________________________________________________
 
