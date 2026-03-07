@@ -89,4 +89,21 @@ I installed the MinGW compiler and tried compiling the programs using GCC in the
 While compiling, I faced some errors and spent time checking the commands and trying to fix the issue. 
 Even though the program didn’t run successfully today, I understood more about how C programs are compiled and how errors can occur during execution.
 ___________________________________________________________________________
+Date: 2026-03-07
+
+Topic: Running Randomized Quick Sort and Hashing Programs
+
+Key Concepts:
+- GCC Compiler
+- Program Execution
+- Debugging Errors
+
+What I Learned:
+Since yesterday, I tried running the Randomized Quick Sort and Hashing programs thatI had written earlier after installing the MinGW GCC compiler.
+I faced some errors while compiling and spent time checking the commands and fixing them.
+Today I tried again and successfully ran the Randomized Quick Sort program and obtained the output. 
+I have uploaded the randomized_quicksort.c file along with the output screenshot in my repository.
+
+Code Practice:
+Executed Randomized Quick Sort program in C.
 
