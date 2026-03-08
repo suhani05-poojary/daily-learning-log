@@ -106,4 +106,24 @@ I have uploaded the randomized_quicksort.c file along with the output screenshot
 
 Code Practice:
 Executed Randomized Quick Sort program in C.
+__________________________________________________________________________
+Date: 2026-03-08
+
+Topic: Uploading AI College Helpdesk Chatbot Project to GitHub
+
+Key Concepts:
+- GitHub Repository
+- Project File Organization
+- Flask Web Application
+- Version Control
+
+What I Learned:
+Today I created a new GitHub repository for our mini project "AI College Helpdesk Chatbot". 
+I uploaded the main project files including app.py, intents.json and the HTML interface inside the templates folder. 
+This project is built using Python and Flask to provide responses to common college-related queries. 
+Through this process, I understood how to organize project files and manage them in a GitHub repository.
+
+Code Practice:
+Uploaded the AI College Helpdesk Chatbot project files to GitHub.
+__________________________________________________________________________
 
