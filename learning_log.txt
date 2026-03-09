@@ -126,4 +126,21 @@ Through this process, I understood how to organize project files and manage them
 Code Practice:
 Uploaded the AI College Helpdesk Chatbot project files to GitHub.
 __________________________________________________________________________
+Date: 2026-03-09
+
+Topic: Cybersecurity in Social Media – MindPrints Paper Presentation (Tech Yuva 2026)
+
+Key Concepts:
+Phishing attacks, fake profiles, identity theft, malware attacks, data breaches, strong passwords, two-factor authentication, social media security awareness.
+
+What I Learned:
+Today I participated in the MindPrints paper presentation event during Tech Yuva 2026 at Srinivas University.
+Our topic was "Cybersecurity in Social Media."
+While presenting, I experienced nervousness and got stuck a few times, which made me realize that presentation skills require practice. 
+I learned that explaining concepts clearly requires practicing speaking aloud and organizing points properly. 
+This experience helped me understand the importance of communication skills along with technical knowledge.
+
+Core Practice:
+Practiced explaining cybersecurity concepts such as phishing, fake profiles, identity theft, malware attacks, and data breaches. 
+Also worked on improving presentation confidence and reflecting on areas to improve for future presentations.
 
