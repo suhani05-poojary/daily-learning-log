@@ -143,4 +143,20 @@ This experience helped me understand the importance of communication skills alon
 Core Practice:
 Practiced explaining cybersecurity concepts such as phishing, fake profiles, identity theft, malware attacks, and data breaches. 
 Also worked on improving presentation confidence and reflecting on areas to improve for future presentations.
+___________________________________________________________________________
+Date: 2026-03-10
+
+Topic: GitHub Repository Organization
+
+Key Concepts:
+GitHub repository, folders in GitHub, uploading files, organizing project files.
+
+What I Learned:
+Today I organized my MindPrints Cybersecurity Presentation repository in GitHub. 
+I created a folder named "presentation_photos" and uploaded three images from our paper presentation event.
+I learned how to structure files inside a repository so that project materials like PDF, PPT, and photos are organized properly.
+
+Core Practice:
+Created a folder in the repository and uploaded presentation images to maintain a clean and structured project repository.
+
 
