@@ -158,5 +158,20 @@ I learned how to structure files inside a repository so that project materials l
 
 Core Practice:
 Created a folder in the repository and uploaded presentation images to maintain a clean and structured project repository.
+____________________________________________________________________________
+Date: 2026-03-11
+
+Topic: ADA Exam Preparation
+
+Key Concepts:
+Revision of basic concepts in Analysis and Design of Algorithms.
+
+What I Learned:
+Today I revised some important topics in ADA for my upcoming exam and reviewed basic algorithm concepts.
+
+Core Practice:
+Read study materials and revised important ADA concepts for exam preparation.
+______________________________________________________________________________
+
 
 
