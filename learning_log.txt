@@ -178,6 +178,20 @@ Subject: Analysis and Design of Algorithms (ADA)
 Today I had classes till evening, so I could not do extra work.
 I spent some time revising the Quick Sort algorithm, its working with an example, and its time complexity as part of my exam preparation.
 ______________________________________________________________________________
+Date: 2026-03-13
+
+Subject: Analysis and Design of Algorithms (ADA) & AI Project
+
+Key Concepts:
+Decrease and Conquer, Divide and Conquer, Matrix Multiplication,Topological Sorting using DFS, AI College Help Desk Chatbot demo.
+
+What I Learned:
+Today I revised important ADA topics such as Decrease and Conquer, Divide and Conquer, matrix multiplication concepts
+and topological sorting using DFS as part of my exam preparation. 
+I also participated in presenting our AI College Help Desk Chatbot project demo and explained its working to the instructor.
+
+Core Practice:
+Participated in the project demo and maintained the GitHub repository of the AI College Help Desk Chatbot while continuing ADA exam revision.
 
 
 
