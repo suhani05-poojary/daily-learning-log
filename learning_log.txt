@@ -191,7 +191,9 @@ and topological sorting using DFS as part of my exam preparation.
 I also participated in presenting our AI College Help Desk Chatbot project demo and explained its working to the instructor.
 
 Core Practice:
-Participated in the project demo and maintained the GitHub repository of the AI College Help Desk Chatbot while continuing ADA exam revision.
+Participated in the project demo of the maintained the GitHub repository of AI College Help Desk Chatbot while continuing ADA exam revision.
+_______________________________________________________________________________
+
 
 
 
