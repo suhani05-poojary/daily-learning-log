@@ -205,7 +205,10 @@ Date: 2026-03-15
 i studied and prepared for tomorrow's DBMS and DATA STRUCURES 2 exam,
 covering 2 modules from each subject. 
 _________________________________________________________________________________
+Date: 2026-03-16
 
-
+i studied and prepared for tomorrow's Software Engineering in AI and ADA exam,
+covering 2 modules from each subject. 
+_________________________________________________________________________________
 
 
