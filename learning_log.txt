@@ -249,8 +249,11 @@ Date: 2026-03-25
 
 Did group task 5 of FAIML subject and made IBM report also.
 _________________________________________________________________________________
+Date: 2026-03-26
 
-
+Uploaded the group task file to the repository on GitHub.
+Submitted DBMS mini project report and completed the project demo in class.
+_________________________________________________________________________________
 
 
 
