@@ -300,9 +300,29 @@ Successfully passed; certificate requested (pending)
 •Revise MongoDB concepts again (don’t just stop at passing)
 •Continue consistent daily logging
 _________________________________________________________________________________
+Date: 2026-03-29
 
+1. Activities Completed:
+   • Prepared for NPTEL SWAYAM exam (Fundamentals of Algorithm Design and Analysis)
+   • Attended exam at Manipal (1 PM – 5 PM)
+   • Attempted different levels of questions
 
+2. Skills Gained / Improved:
+   • Problem-solving under time pressure
+   • Application of algorithm concepts
 
+3. Challenges Faced:
+   • Some questions were difficult and beyond preparation level
+   • Unable to solve a few questions
+
+4. What I Learned:
+   • Need more practice in solving higher-level problems
+   • Understanding concepts alone is not enough without application
+
+5. What I’ll Do Next:
+   • Practice more algorithm problems
+   • Revise weak concepts from the course
+_________________________________________________________________________________
 
 
 
