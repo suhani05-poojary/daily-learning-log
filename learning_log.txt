@@ -322,29 +322,30 @@ Date: 2026-03-29
 5. What I’ll Do Next:
    • Practice more algorithm problems
    • Revise weak concepts from the course
-_________________________________________________________________________________
+_________________________________________________________________________________
+
 Date:2026-03-30
 
-Today's Work:
-Worked on DBMS lab mini project titled “Voting Management System.”
-What I Did:
-Designed and implemented a database with 6 tables
-Established relationships between tables (likely using primary & foreign keys)
-Executed queries and tested the system on my laptop
-Successfully generated outputs for different operations
-Prepared a detailed project report including system design and output screenshots
-What I Learned:
-Better understanding of database design and table structuring
-Practical experience in writing and executing SQL queries
-Importance of maintaining relationships between tables
-Learned how to document a DBMS project properly with outputs
-Challenges Faced:
-Faced some difficulty while managing table relationships / queries (you can adjust this honestly)
-Debugging errors during execution
-Next Plan:
-Upload the project report and screenshots
-Review and improve query efficiency if needed
-
+1.Today's Work:
+•Worked on DBMS lab mini project titled “Voting Management System.”
+2.What I Did:
+•Designed and implemented a database with 6 tables
+•Established relationships between tables (likely using primary & foreign keys)
+•Executed queries and tested the system on my laptop
+•Successfully generated outputs for different operations
+•Prepared a detailed project report including system design and output screenshots
+2.What I Learned:
+•Better understanding of database design and table structuring
+•Practical experience in writing and executing SQL queries
+•Importance of maintaining relationships between tables
+•Learned how to document a DBMS project properly with outputs
+3.Challenges Faced:
+•Faced some difficulty while managing table relationships / queries 
+•Debugging errors during execution
+4.Next Plan:
+•Upload the project report and screenshots
+•Review and improve query efficiency if needed
+_________________________________________________________________________________
 
 
 
