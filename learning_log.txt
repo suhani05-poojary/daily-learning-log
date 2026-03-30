@@ -256,22 +256,22 @@ Submitted DBMS mini project report and completed the project demo in class.
 _________________________________________________________________________________
 Date: 2026-03-27
 
-🔧 Work Completed
+1.Work Completed
 •Completed DBMS group task and finalized project report
 •Contributed to structuring report sections (schema design, queries, documentation)
 •Participated in mini project submission and demo discussion
 
-🧠 Technical Concepts Reinforced
+2.Technical Concepts Reinforced
 •Database schema design and normalization basics
 •Writing and organizing SQL queries for project use
 •Importance of documentation in DBMS projects
 
-⚠️ Gaps / Mistakes Noticed
+3.Gaps / Mistakes Noticed
 •Started work late → led to unnecessary pressure
 •Contribution in technical discussion could have been deeper
 •Relied more on team than pushing own understanding
 
-🚀 Action Plan (Next 24–48 hrs)
+4.Action Plan (Next 24–48 hrs)
 •Revise core DBMS concepts (normalization, indexing, queries)
 •Practice writing SQL queries independently
 •Start documenting learnings daily on GitHub
@@ -323,7 +323,27 @@ Date: 2026-03-29
    • Practice more algorithm problems
    • Revise weak concepts from the course
 _________________________________________________________________________________
+Date:2026-03-30
 
+Today's Work:
+Worked on DBMS lab mini project titled “Voting Management System.”
+What I Did:
+Designed and implemented a database with 6 tables
+Established relationships between tables (likely using primary & foreign keys)
+Executed queries and tested the system on my laptop
+Successfully generated outputs for different operations
+Prepared a detailed project report including system design and output screenshots
+What I Learned:
+Better understanding of database design and table structuring
+Practical experience in writing and executing SQL queries
+Importance of maintaining relationships between tables
+Learned how to document a DBMS project properly with outputs
+Challenges Faced:
+Faced some difficulty while managing table relationships / queries (you can adjust this honestly)
+Debugging errors during execution
+Next Plan:
+Upload the project report and screenshots
+Review and improve query efficiency if needed
 
 
 
