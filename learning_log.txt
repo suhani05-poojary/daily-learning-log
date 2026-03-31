@@ -279,26 +279,30 @@ ________________________________________________________________________________
 Date: 2026-03-28
 
 1. Activities Completed:
-•Volunteered at college graduation event (SUIET,Mukka)
-•Assisted in prize distribution on stage
-•Followed coordination instructions and managed responsibilities during event
-•Completed No Sql MongoDB(IBM) certification exam
-•Covered 4 modules before attempting final test
-Successfully passed; certificate requested (pending)
+  •Volunteered at college graduation event (SUIET,Mukka)
+  •Assisted in prize distribution on stage
+  •Followed coordination instructions and managed responsibilities during event
+  •Completed No Sql MongoDB(IBM) certification exam
+  •Covered 4 modules before attempting final test
+  Successfully passed; certificate requested (pending)
+
 2. Skills Gained / Improved:
-•Event coordination and teamwork
-•Communication and responsibility handling in formal settings
-•Basic understanding of MongoDB concepts (from course revision + test)
+  q•Event coordination and teamwork
+  •Communication and responsibility handling in formal settings
+  •Basic understanding of MongoDB concepts (from course revision + test)
+
 3. Challenges Faced:
-•Physical fatigue due to long hours of volunteering
-•Managing both event work and exam in the same day
+  •Physical fatigue due to long hours of volunteering
+  •Managing both event work and exam in the same day
+
 4. What I Learned:
-•Real-world tasks (like events) require discipline and coordination
-•Completing structured learning (like MongoDB modules) before testing improves confidence and performance
+  •Real-world tasks (like events) require discipline and coordination
+  •Completing structured learning (like MongoDB modules) before testing improves confidence and performance
+
 5. What I’ll Do Next:
-•Once certificate arrives → upload to GitHub/LinkedIn
-•Revise MongoDB concepts again (don’t just stop at passing)
-•Continue consistent daily logging
+  •Once certificate arrives → upload to GitHub/LinkedIn
+  •Revise MongoDB concepts again (don’t just stop at passing)
+  •Continue consistent daily logging
 _________________________________________________________________________________
 Date: 2026-03-29
 
@@ -346,7 +350,24 @@ Date:2026-03-30
 •Upload the project report and screenshots
 •Review and improve query efficiency if needed
 _________________________________________________________________________________
+Date: 2026-03-31
 
+1. Today’s Work:
+   • Completed Individual Task 4
+   • Uploaded report to GitHub
 
+2. Skills Gained / Improved:
+   • GitHub usage
+   • Documentation skills
+
+3. Challenges Faced:
+   • Minor formatting issues
+
+4. What I Learned:
+   • Importance of proper documentation
+
+5. What I’ll Do Next:
+   • Continue updating GitHub regularly
+_________________________________________________________________________________
 
 
