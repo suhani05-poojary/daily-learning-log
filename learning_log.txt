@@ -386,3 +386,20 @@ Date: 2026-04-01
   - Basic GitHub file management
   - Importance of a structured LinkedIn profile
 _________________________________________________________________________________
+Date:2026-04-02
+
+1.Work Done:
+  - Organized GitHub academic repository
+  - Renamed files properly
+  - Updated README
+
+2.Learning Outcome:
+  - Learned importance of file naming and clean structure
+  - Improved GitHub usage
+
+3.Challenges Faced:
+  - Confusion in naming and structure
+
+4.Next Plan:
+  - Improve repository further
+_________________________________________________________________________________
