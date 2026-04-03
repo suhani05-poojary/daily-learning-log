@@ -403,3 +403,19 @@ Date:2026-04-02
 4.Next Plan:
   - Improve repository further
 _________________________________________________________________________________
+Date: 2026-04-03
+
+1. Work Done:
+  - Renamed three individual task files
+  - Renamed repository without deleting PDFs
+
+2. Learning Outcome:
+  - Learned GitHub file management
+  - Understood renaming without re-upload
+
+3. Challenges Faced:
+  - Confusion in renaming process
+
+4. Next Plan:
+  - Improve repository structure
+_________________________________________________________________________________
