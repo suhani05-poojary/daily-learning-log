@@ -435,3 +435,24 @@ Date: 2026-04-04
 4. Next Plan:
   -Maintain consistent naming across all repositories and files
 _________________________________________________________________________________
+Date: 2026-04-05
+
+1. Work Done:
+  -Cleaned ADA project report by removing unnecessary pages
+  -Created GitHub repository for Kruskal’s Algorithm
+  -Uploaded report and organized files properly
+  -Improved LinkedIn profile (About section, achievements, projects)
+
+2. Learning Outcome:
+  -Learned importance of presenting projects professionally
+  -Improved understanding of GitHub repository structure
+  -Realized value of a strong LinkedIn profile
+
+3. Challenges Faced:
+  -Difficulty in editing PDF and managing pages
+  -Confusion in structuring repository properly
+
+4. Next Plan:
+  -Upload code for the project
+  -Enhance README and overall repository quality\
+_________________________________________________________________________________
