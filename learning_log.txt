@@ -473,3 +473,28 @@ Date:2026-04-06
 4.Next Plan:
   - Further improve repository presentation
 _________________________________________________________________________________
+Date: 2026-04-07
+
+1. Work Done:
+
+- Studied three database schemas: Library DB, Order DB, Movie DB
+- Practiced table creation and foreign key constraints
+- Analyzed ON DELETE behaviors (CASCADE, SET NULL, default)
+- Solved SQL query on Movie DB (actors before 2000 and after 2015)
+
+2. Learning Outcome:
+
+- Understood difference between CASCADE, SET NULL, and default constraint behavior
+- Gained clarity on parent–child relationship in foreign keys
+- Learned difference between JOIN and INTERSECT operations
+
+3. Challenges Faced:
+
+- Confusion in interpreting ON DELETE effects
+- Mixing up JOIN and set operations
+
+4. Next Plan:
+
+- Complete remaining two database schemas
+- Practice more SQL queries using JOINs
+_________________________________________________________________________________
