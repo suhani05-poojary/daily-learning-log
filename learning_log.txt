@@ -498,3 +498,28 @@ Date: 2026-04-07
 - Complete remaining two database schemas
 - Practice more SQL queries using JOINs
 _________________________________________________________________________________
+Date: 2026-04-08
+
+1. Work Done:
+
+- Ran Kruskal algorithm in VS Code
+- Created and formatted input-output file
+- Uploaded code and updated GitHub
+- Studied College DB and Employee DB
+- Practiced SQL queries (JOIN, GROUP BY, salary calculation)
+
+2. Learning Outcome:
+
+- Improved understanding of code execution and output formatting
+- Gained clarity on foreign keys, ON DELETE behavior, and SQL operations
+
+3. Challenges Faced:
+
+- Confusion in formatting input-output
+- Difficulty in understanding constraint behavior
+
+4. Next Plan:
+
+- Update README and improve repository
+- Practice more SQL queries
+_________________________________________________________________________________
