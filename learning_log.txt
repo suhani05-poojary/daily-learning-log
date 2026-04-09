@@ -523,3 +523,32 @@ Date: 2026-04-08
 - Update README and improve repository
 - Practice more SQL queries
 _________________________________________________________________________________
+Date: 2026-04-09  
+
+1. Work Done:
+
+- Studied Randomized QuickSort and practiced dry run with examples
+- Learned Python input handling using list, map, split, and int
+- Implemented Hashing with Linear and Quadratic Probing
+- Explored basics of Fibonacci Heap and its insertion process
+- Built Max Heap using max_heapify and understood heap construction
+- Implemented Disjoint Set (Union-Find) with path compression
+
+2. Learning Outcome:
+
+- Improved understanding of sorting, hashing, heap, and disjoint set concepts
+- Gained clarity in tracing algorithms step-by-step
+- Understood path compression in Union-Find and its efficiency
+
+3. Challenges Faced:
+
+- Difficulty in understanding Fibonacci Heap pointer structure
+- Confusion in heap construction loop logic
+
+4. Next Plan:
+
+- Study three Python programs: Bellman-Ford algorithm, Ford-Fulkerson algorithm, and B-tree with insertion and search
+- Practice more problems on heaps and Union-Find
+- Learn union by rank optimization
+
+_________________________________________________________________________________
