@@ -550,5 +550,29 @@ Date: 2026-04-09
 - Study three Python programs: Bellman-Ford algorithm, Ford-Fulkerson algorithm, and B-tree with insertion and search
 - Practice more problems on heaps and Union-Find
 - Learn union by rank optimization
+_________________________________________________________________________________
+Date: 2026-04-10  
 
+1. Work Done:
+
+- Studied Bellman-Ford Algorithm  
+- Learned basic concept of hashing  
+- Practiced B-Tree insertion  
+- Added README for Kruskal Algorithm MST repository  
+
+2. Learning Outcome:
+
+- Understood shortest path concept  
+- Improved clarity on hashing and B-Tree  
+- Gained better understanding of algorithm step-by-step tracing  
+
+3. Challenges Faced:
+
+- Confusion in B-Tree splitting  
+- Difficulty in understanding Bellman-Ford iteration process  
+
+4. Next Plan:
+
+- Study Ford-Fulkerson Algorithm  
+- Practice more problems  
 _________________________________________________________________________________
