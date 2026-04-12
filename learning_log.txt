@@ -576,3 +576,50 @@ Date: 2026-04-10
 - Study Ford-Fulkerson Algorithm  
 - Practice more problems  
 _________________________________________________________________________________
+Date: 2026-04-11  
+
+1. Work Done:
+
+- Added certifications to LinkedIn  
+- Updated Honors & Awards section  
+- Improved profile structure  
+
+2. Learning Outcome:
+
+- Learned how to organize LinkedIn profile  
+- Understood proper presentation of achievements  
+
+3. Challenges Faced:
+
+- Confusion in LinkedIn UI and certificate details  
+
+4. Next Plan:
+
+- Add projects and update GitHub  
+
+_________________________________________________________________________________
+
+Date: 2026-04-12  
+
+1. Work Done:
+
+- Added Kruskal and ML projects  
+- Improved Voting project description  
+- Created Featured section  
+- Posted Kruskal project  
+
+2. Learning Outcome:
+
+- Learned how to present projects effectively  
+- Understood importance of project-based posts  
+
+3. Challenges Faced:
+
+- Confusion in adding links and structuring projects  
+
+4. Next Plan:
+
+- Post ML project  
+- Improve GitHub repositories  
+
+_________________________________________________________________________________
