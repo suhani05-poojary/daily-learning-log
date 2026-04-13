@@ -623,3 +623,25 @@ Date: 2026-04-12
 - Improve GitHub repositories  
 
 _________________________________________________________________________________
+Date: 2026-04-13  
+
+1. Work Done:
+
+- Worked on DBMS lab project repository  
+- Added ML project post on LinkedIn  
+
+2. Learning Outcome:
+
+- Improved understanding of DBMS project structure  
+- Learned how to present ML projects professionally  
+
+3. Challenges Faced:
+
+- Managing project organization in repository  
+
+4. Next Plan:
+
+- Continue DBMS lab work  
+- Improve GitHub repositories  
+
+_________________________________________________________________________________
