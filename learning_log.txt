@@ -645,3 +645,26 @@ Date: 2026-04-13
 - Improve GitHub repositories  
 
 _________________________________________________________________________________
+Date: 2026-04-14
+
+1. Work Done:
+
+- Improved DBMS lab project repository structure and fixed folder issues
+- Refined and updated resume for internship applications
+
+2. Learning Outcome:
+
+- Gained better clarity on organizing GitHub repositories effectively
+- Understood how to structure a resume to meet industry expectations
+
+3. Challenges Faced:
+
+- Confusion in arranging files and linking correct project components
+- Difficulty in keeping resume concise while including important details
+
+4. Next Plan:
+
+- Continue improving DBMS lab repository with better documentation
+- Start applying to internships and refine resume further based on feedback
+
+_________________________________________________________________________________
