@@ -668,3 +668,30 @@ Date: 2026-04-14
 - Start applying to internships and refine resume further based on feedback
 
 _________________________________________________________________________________
+Date: 2026-04-15
+
+1. Work Done:
+
+- Improved AI chatbot UI and readability
+- Fixed major response issues and fallback behavior
+- Tested chatbot with different types of queries
+- Uploaded project files to GitHub
+- Started organizing screenshots and README
+
+2. Learning Outcome:
+
+- Understood how chatbot logic actually fails and how to control it
+- Learned basic GitHub workflow (uploading, structuring files)
+- Realized importance of clean UI and proper presentation
+
+3. Challenges Faced:
+
+- Wrong chatbot responses for some queries
+- Confusion while handling GitHub folders and image uploads
+
+4. Next Plan:
+
+- Complete README with screenshots
+- Deploy the project online
+
+_________________________________________________________________________________
