@@ -695,3 +695,22 @@ Date: 2026-04-15
 - Deploy the project online
 
 _________________________________________________________________________________
+Date: 2026-04-16
+
+1. Work Done:
+
+- Deployed AI College Chatbot and updated GitHub
+- Improved README and resume content
+
+2. Learning Outcome:
+
+- Learned deployment process and better resume writing
+
+3. Challenges Faced:
+
+- Faced minor issues in deployment and resume structuring
+
+4. Next Plan:
+
+- Finalize resume and focus on exams
+_________________________________________________________________________________
