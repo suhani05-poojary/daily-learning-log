@@ -714,3 +714,26 @@ Date: 2026-04-16
 
 - Finalize resume and focus on exams
 _________________________________________________________________________________
+Date: 2026-04-17
+
+1. Work Done:
+
+- Revised all Data Structures modules (hashing, heaps, trees, graphs, disjoint sets)
+- Practiced hashing and union-find problems
+
+2. Learning Outcome:
+
+- Improved overall understanding of key data structures
+- Gained better clarity in hashing and disjoint set operations
+
+3. Challenges Faced:
+
+- Confusion in double hashing steps
+- Difficulty recalling tree balancing cases
+
+4. Next Plan:
+
+- Revise important topics
+- Practice problems for accuracy
+
+_________________________________________________________________________________
