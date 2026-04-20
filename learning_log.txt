@@ -737,3 +737,29 @@ Date: 2026-04-17
 - Practice problems for accuracy
 
 _________________________________________________________________________________
+Date: 2026-04-20
+
+1. Work Done:
+
+- Revised all 5 DBMS modules for end-semester exam
+- Practiced important questions and problem types
+- Focused on key concepts likely to appear in exam
+
+2. Learning Outcome:
+
+- Strengthened understanding of core DBMS concepts
+- Improved problem-solving approach for exam questions
+- Increased confidence in handling different question types
+
+3. Challenges Faced:
+
+- Time pressure while covering all modules in one day
+- Confusion in some complex topics during revision
+- Maintaining focus for long study hours
+
+4. Next Plan:
+
+- Do a quick revision of weak areas before exam
+- Manage time properly during the exam
+- Avoid overthinking and focus on clear answers
+_________________________________________________________________________________
