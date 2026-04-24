@@ -817,3 +817,21 @@ Date: 2026-04-23
 - Continue working on pending modules of CodeSoft projects
 - Aim to complete and upload progress on GitHub.
 _________________________________________________________________________________
+Date: 2026-04-24  
+
+1. Work Done:  
+-Worked on improving resume formatting and structure.
+-Practiced writing a formal email for requesting exam papers.
+-Also organized the DBMS GitHub repository with better folder clarity.  
+
+2. Learning Outcome:  
+-Understood professional formatting in resumes and emails.
+-Learned the importance of structured and clean GitHub repositories.  
+
+3. Challenges Faced:  
+-Had difficulty making project descriptions more impactful and faced some issues with formatting on mobile.  
+
+4. Next Plan:  
+-Will improve one project by adding metrics and better description. 
+-Also plan to clean and organize one GitHub repository completely.
+_________________________________________________________________________________
