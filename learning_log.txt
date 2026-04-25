@@ -835,3 +835,20 @@ Date: 2026-04-24
 -Will improve one project by adding metrics and better description. 
 -Also plan to clean and organize one GitHub repository completely.
 _________________________________________________________________________________
+Date: 2026-04-25
+
+1. Work Done:
+- Completed Task 1 (To-Do GUI) and Task 2 (Calculator) and uploaded them to CodeSoft GitHub repository
+- Worked on Task 3 (Password Generator) and implemented core functionality with input handling
+- Tested multiple cases and fixed input-related issues
+
+2. Learning Outcome:
+- Learned how to structure and upload projects properly on GitHub
+- Understood importance of handling user input correctly
+- Improved debugging skills through fixing logical errors
+
+3. Next Plan:
+- Fix remaining issues in Task 3 and complete it
+- Upload Task 3 with proper screenshots and README
+- Start Task 4 after exams
+_________________________________________________________________________________
