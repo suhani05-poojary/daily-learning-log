@@ -911,3 +911,31 @@ Date: 2026-04-28
 - Solve previous year questions
 - Do quick revision at the end of the day
 _________________________________________________________________________________
+Date: 2026-04-30
+
+1. Work Done:
+
+- Attended and completed FAIML (Fundamentals of AI & ML) exam
+- Uploaded Task 3 – Password Generator to GitHub under CodeSoft repository
+- Included Python file, screenshots, and README documentation
+- Reviewed pending tasks (Task 4 and Task 5)
+
+2. Learning Outcome:
+
+- Strengthened understanding of FAIML concepts through exam
+- Learned how to properly structure and upload a complete project on GitHub
+- Improved clarity on managing priorities during exams
+
+3. Challenges Faced:
+
+- Felt tired after exam and travel, affecting productivity
+- Task 4 and Task 5 still pending, creating pressure
+- Need to quickly shift focus to next subject preparation
+
+4. Plan for Tomorrow:
+
+- Start preparation for Software Engineering with AI exam
+- Focus on important topics and revision
+- Do not start Task 4 and Task 5 until exam is completed
+- Maintain consistent study time without distractions
+_________________________________________________________________________________
