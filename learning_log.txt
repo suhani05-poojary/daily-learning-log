@@ -939,3 +939,25 @@ Date: 2026-04-30
 - Do not start Task 4 and Task 5 until exam is completed
 - Maintain consistent study time without distractions
 _________________________________________________________________________________
+Date: 2026-05-01
+
+1. Work Done:
+
+- Studied for Software Engineering with AI exam
+- Completed 2 out of 5 modules
+
+2. Learning Outcome:
+
+- Understood key concepts from the first two modules
+- Identified important topics that are likely to be asked in the exam
+
+3. Challenges Faced:
+
+- Could not complete entire syllabus on time
+- Remaining 3 modules still pending, creating time pressure
+
+4. Next Plan:
+
+- Wake up early and complete remaining 3 modules
+- Focus on important concepts and quick revision before exam
+_________________________________________________________________________________
