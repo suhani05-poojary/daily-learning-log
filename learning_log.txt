@@ -961,3 +961,25 @@ Date: 2026-05-01
 - Wake up early and complete remaining 3 modules
 - Focus on important concepts and quick revision before exam
 _________________________________________________________________________________
+Date: 2026-05-02
+
+1. Work Done:
+
+- Created separate GitHub repositories for each Codesoft task
+- Uploaded Task 1, Task 2, and Task 3 with correct file structure
+
+2. Learning Outcome:
+
+- Learned how to properly organize and upload files in GitHub
+- Understood importance of following exact instructions
+
+3. Challenges Faced:
+
+- Confusion while uploading screenshots folder
+- Difficulty understanding correct repository structure
+
+4. Plan for Tomorrow:
+
+- Improve README files
+- Start working on remaining tasks
+_________________________________________________________________________________
