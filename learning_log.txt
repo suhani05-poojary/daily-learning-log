@@ -904,8 +904,7 @@ Date: 2026-04-28
 - Physical and mental fatigue after exam and travel
 - Low energy for extended study sessions
 
-4. Plan for Tomorrow:
-
+4. Next Plan:
 - Focus on FAIML subject preparation
 - Revise core concepts and important topics
 - Solve previous year questions
@@ -932,7 +931,7 @@ Date: 2026-04-30
 - Task 4 and Task 5 still pending, creating pressure
 - Need to quickly shift focus to next subject preparation
 
-4. Plan for Tomorrow:
+4. Next Plan:
 
 - Start preparation for Software Engineering with AI exam
 - Focus on important topics and revision
@@ -978,8 +977,34 @@ Date: 2026-05-02
 - Confusion while uploading screenshots folder
 - Difficulty understanding correct repository structure
 
-4. Plan for Tomorrow:
+4. Next Plan:
 
 - Improve README files
 - Start working on remaining tasks
+_________________________________________________________________________________
+Date: 2026-05-03
+
+1. Work Done:
+
+- Completed Task 4 (Rock Paper Scissors) and Task 5 (Contact Book)
+- Uploaded both tasks to GitHub with proper README and screenshots
+- Tested all functionalities including game logic and CRUD operations
+
+2. Learning Outcome:
+
+- Improved understanding of loops, conditions, and program flow
+- Learned CRUD operations using dictionaries in Python
+- Gained experience in organizing GitHub repositories professionally
+
+3. Challenges Faced:
+
+- Difficulty in structuring files and folders correctly
+- Confusion in deciding proper screenshots and outputs
+- Handling input validation and edge cases in Contact Book
+
+4. Next Plan:
+
+- Record and upload LinkedIn video for all tasks
+- Submit GitHub repository links in internship form
+- Review projects once before final submission
 _________________________________________________________________________________
