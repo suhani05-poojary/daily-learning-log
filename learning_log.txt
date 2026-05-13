@@ -1209,3 +1209,29 @@ Date: 2026-05-12
 - Prepare mentally and practically for the internship starting process
 - Continue maintaining daily learning logs and stay consistent with career-related activities
 _________________________________________________________________________________
+Date: 2026-05-13
+
+1. Work Done:
+
+- Received the internship offer letter from Accolade
+- Visited temple and helped in service activities
+- Spent some time learning basic concepts of HTML and CSS
+
+2. Learning Outcome:
+
+- Understood the importance of completing internship formalities professionally
+- Learned a few basics of webpage structure using HTML
+- Got introduced to CSS and how styling is applied to web pages
+
+3. Challenges Faced:
+
+- Felt tired managing both personal activities and learning tasks
+- Could not spend a long duration on HTML and CSS practice
+- Balancing internship-related work and self-study was slightly difficult
+
+4. Next Plan:
+
+- Continue learning HTML and CSS with small practice examples
+- Read and understand the internship offer letter carefully
+- Start building consistency in daily learning and coding practice
+_________________________________________________________________________________
