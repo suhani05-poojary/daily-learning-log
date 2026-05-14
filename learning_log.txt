@@ -1235,3 +1235,55 @@ Date: 2026-05-13
 - Read and understand the internship offer letter carefully
 - Start building consistency in daily learning and coding practice
 _________________________________________________________________________________
+Date: 2026-05-14
+
+1. Work Done:
+
+- Planned a travel and tourism website project using HTML
+- Thought about creating pages for different places with tourist spot information
+- Decided to include descriptions, important attractions, and visiting details for each location
+
+2. Learning Outcome:
+
+- Understood the basic idea of structuring a multi-page website
+- Learned how HTML can be used to organize travel information clearly
+- Got clarity on how user navigation works when selecting different places on a website
+
+3. Challenges Faced:
+
+- Confusion in deciding how to organize the places and categories properly
+- Difficulty in planning the website layout and content structure
+- Need to improve understanding of HTML tags and page linking concepts
+
+4. Next Plan:
+
+- Start building the homepage using basic HTML structure
+- Learn about hyperlinks, images, and navigation bars in HTML
+- Create one sample place page with tourist spot descriptions and images
+_________________________________________________________________________________
+Date: 2026-05-14
+
+1. Work Done:
+
+- Planned a travel and tourism website project using HTML
+- Thought about creating pages for different places with tourist spot information
+- Decided to include descriptions, important attractions, and visiting details for each location
+
+2. Learning Outcome:
+
+- Understood the basic idea of structuring a multi-page website
+- Learned how HTML can be used to organize travel information clearly
+- Got clarity on how user navigation works when selecting different places on a website
+
+3. Challenges Faced:
+
+- Confusion in deciding how to organize the places and categories properly
+- Difficulty in planning the website layout and content structure
+- Need to improve understanding of HTML tags and page linking concepts
+
+4. Next Plan:
+
+- Start building the homepage using basic HTML structure
+- Learn about hyperlinks, images, and navigation bars in HTML
+- Create one sample place page with tourist spot descriptions and images
+_________________________________________________________________________________
