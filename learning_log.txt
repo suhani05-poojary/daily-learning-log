@@ -1287,3 +1287,27 @@ Date: 2026-05-14
 - Learn about hyperlinks, images, and navigation bars in HTML
 - Create one sample place page with tourist spot descriptions and images
 _________________________________________________________________________________
+Date: 2026-05-15
+
+1. Work Done:
+- Continued working on the HTML and CSS coffee café website project.
+- Made improvements to the logout page design and website layout.
+- Worked on arranging code screenshots properly in the project documentation.
+- Recovered accidentally deleted project files from the Recycle Bin and reorganized folders.
+
+2. Learning Outcome:
+- Learned more about website structure and styling adjustments using HTML and CSS.
+- Understood the importance of proper file management and folder organization in projects.
+- Learned how document formatting and image placement affect PDF output quality.
+- Improved basic debugging and problem-solving skills while handling project errors.
+
+3. Challenges Faced:
+- Faced formatting issues while converting the document from Word to PDF.
+- Accidentally deleted the images folder during project cleanup.
+- Had difficulty arranging screenshots properly page by page in the documentation.
+
+4. Next Plan:
+- Continue improving the coffee café website UI and responsiveness.
+- Organize all project files properly for smoother workflow.
+- Learn better documentation practices for presenting projects professionally.
+_________________________________________________________________________________
