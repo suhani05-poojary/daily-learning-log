@@ -1585,3 +1585,26 @@ Date: 2026-05-31
 - Prepare for the start of my internship tomorrow.
 - Travel to Mangalore and begin adapting to the internship schedule and responsibilities.
 _________________________________________________________________________________
+Date: 2026-06-01
+
+1. Work Done
+- Traveled early to Mangalore for the Accolade internship in the Data Analytics domain.
+- Attended the introductory session of the internship.
+- Learned about the basic concepts that will be covered during the program.
+- Completed the required software and tool installations on the laptop.
+- Returned home in the afternoon after the session.
+
+2. Learning Outcome
+- Gained an overview of the Data Analytics domain and the internship structure.
+- Understood the importance of setting up the development environment before starting practical work.
+- Became familiar with the tools and software that will be used during the internship.
+
+3. Challenges Faced
+- Managing travel and adjusting to the internship schedule.
+- Ensuring all required software installations were completed correctly.
+
+4. Next Plan
+- Verify that all installed tools are working properly.
+- Review the concepts introduced during the orientation session.
+- Prepare for the upcoming hands-on activities and assignments in the internship.
+_________________________________________________________________________________
