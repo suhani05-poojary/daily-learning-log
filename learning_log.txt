@@ -1608,3 +1608,27 @@ Date: 2026-06-01
 - Review the concepts introduced during the orientation session.
 - Prepare for the upcoming hands-on activities and assignments in the internship.
 _________________________________________________________________________________
+Date: 2026-06-02
+
+1. Work Done
+- Traveled to Mangalore for the second day of the Accolade internship in the Data Analytics domain.
+- Continued setting up the development environment required for the internship.
+- Installed and configured tools such as Anaconda, PyCharm, and XAMPP.
+- Practiced running basic Python programs using the installed software.
+- Explored the workflow of writing, executing, and testing Python code.
+
+2. Learning Outcome
+- Learned the purpose of Anaconda, PyCharm, and XAMPP in the development process.
+- Improved understanding of Python program execution and development environments.
+- Became more familiar with the tools that will be used throughout the internship.
+- Strengthened basic Python programming knowledge through hands-on practice.
+
+3. Challenges Faced
+- Understanding the roles of multiple software tools being introduced in a single session.
+- Ensuring proper installation and configuration of all required applications.
+
+4. Next Plan
+- Continue practicing Python programming concepts.
+- Explore the features and usage of the installed tools in greater detail.
+- Apply Python fundamentals to more practical exercises and internship tasks.
+_________________________________________________________________________________
