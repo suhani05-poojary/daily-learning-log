@@ -1643,3 +1643,35 @@ Date: 2026-06-03
 - Understood the importance of taking adequate rest and prioritizing health when feeling unwell.
 - Recognized early signs of illness and the need for timely care and recovery.
 _________________________________________________________________________________
+Date: 2026-06-04
+
+1. Work Done
+
+- Despite having a high fever and feeling unwell, I attended the Data Analytics internship session.
+- Faced issues installing Anaconda on the laptop, so Google Colab was used as an alternative platform for executing Python code.
+- Downloaded the Zomato.csv dataset from Kaggle and uploaded it to Google Colab for analysis.
+- Learned and executed basic data exploration commands using the Pandas library.
+- Used ".head()" to display the first five rows of the dataset.
+- Used ".tail()" to display the last five rows of the dataset.
+- Viewed the column names present in the dataset.
+- Checked the total number of rows and columns in the dataset.
+- Examined the data types of each column using appropriate Pandas functions.
+- Practiced running and understanding various dataset inspection commands in Google Colab.
+
+2. Learning Outcome
+
+- Learned how to work with datasets in Google Colab when local software installation issues occur.
+- Gained hands-on experience with basic Pandas commands for exploring and understanding a dataset.
+- Understood how to inspect dataset structure, column information, dimensions, and data types before performing further analysis.
+
+3. Challenges Faced
+
+- Experienced difficulty installing Anaconda on the laptop.
+- Attended and participated in the session despite having a high fever, which made concentration challenging.
+
+4. Plan for Next Session
+
+- Continue learning data analysis techniques using Pandas.
+- Explore additional dataset operations and data cleaning methods.
+- Resolve Anaconda installation issues if possible for local development.
+_________________________________________________________________________________
