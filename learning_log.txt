@@ -1779,3 +1779,27 @@ Date: 2026-06-09
 - Continue practicing Python and Pandas operations on datasets.
 - Complete any new tasks assigned during the internship and revise important concepts regularly.
 _________________________________________________________________________________
+Date: 2026-06-10
+
+1. Work Done
+- Attended the Data Analytics internship session.
+- Worked extensively in Jupyter Notebook and executed multiple Python codes.
+- Performed data visualization activities using different chart types.
+- Created and analyzed visualizations such as Pie Charts, Bar Charts, and several other graphical representations for data analysis.
+- Practiced generating insights from datasets through visual interpretation.
+- Improved familiarity with Python libraries and visualization techniques used in data analytics.
+
+2. Learning Outcome
+- Gained hands-on experience working with Jupyter Notebook.
+- Improved understanding of data visualization concepts and their applications.
+- Learned how different chart types help represent and interpret data effectively.
+- Enhanced practical skills in Python-based data analysis and visualization.
+
+3. Challenges Faced
+- Encountered some unfamiliar visualization techniques and chart types that require further practice and understanding.
+
+4. Plan for Next Day
+- Continue practicing data visualization in Jupyter Notebook.
+- Learn the purpose and usage of additional chart types and visualization methods.
+- Strengthen understanding of data analysis concepts through more hands-on exercises.
+_________________________________________________________________________________
