@@ -1965,3 +1965,26 @@ Date: 2026-06-26
 4. Plan for Tomorrow:
 - Continue recovering and resume learning by starting my pending Power BI internship work.
 _________________________________________________________________________________
+Date: 2026-06-27
+
+1. Work Done:
+
+- Continued working on the Power BI Zomato dashboard for my internship.
+- Recreated multiple visuals including a Card, Pie Chart, and Column Charts.
+- Learned how to use different Power BI visuals, apply field aggregations (Count and Average), and understand dashboard layout.
+- Compared my dataset with my friend's dashboard and identified differences in the available columns.
+
+2. Learning Outcome:
+
+- Improved my understanding of Power BI visualization types and when to use them.
+- Learned how Power BI automatically creates aggregated fields such as "Count of Name."
+- Gained a better understanding of how dashboard visuals should represent different business insights rather than repeating the same information.
+
+3. Challenges:
+
+- Faced difficulty recreating the dashboard exactly because my dataset differed from my friend's, with some columns missing and the dashboard layout initially being confusing.
+
+4. Plan for Tomorrow:
+
+- Continue building the remaining visuals on the first page of the Power BI dashboard and begin working on the next dashboard pages.
+_________________________________________________________________________________
