@@ -1988,3 +1988,25 @@ Date: 2026-06-27
 
 - Continue building the remaining visuals on the first page of the Power BI dashboard and begin working on the next dashboard pages.
 _________________________________________________________________________________
+Date: 2026-06-28  
+
+1. Work Done:
+- Imported Amazon dataset into Power BI
+- Cleaned data in Power Query (removed errors, duplicates, fixed data types)
+- Converted price columns into numeric format
+- Created visuals like card, pie chart, bar chart, column chart, donut chart and slicer in Page 1 dashboard
+
+2. Learning Outcome:
+- Understood Power BI data cleaning and transformation process
+- Learned handling of missing values and data type errors
+- Gained experience in creating interactive dashboards using multiple visuals
+
+3. Challenges:
+- Faced errors in rating and price columns during data loading
+- Confusion in Power Query steps and Top N filtering logic
+
+4. Plan for Tomorrow:
+- Complete Page 1 alignment and formatting in Power BI
+- Start Page 2 visuals (table, matrix, line chart, scatter chart)
+- Begin Python visual integration in Power BI
+_________________________________________________________________________________
