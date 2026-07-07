@@ -2167,3 +2167,27 @@ Date: 2026-07-06
 - Stay hydrated, eat nutritious meals, and get adequate rest.
 - Observe whether the shoulder pain and eye heaviness improve.
 ________________________________________________________________________________
+Date: 2026-07-07
+
+1. Work Done:
+- Attended 5th semester classes.
+- Studied the Bellman-Ford Algorithm for the Computer Networks lab.
+- Understood the algorithm, pseudocode, and Python implementation.
+- Compared different Bellman-Ford implementations and clarified the correct format for writing in the lab record.
+- Continued taking Thyronorm 50 mcg as prescribed.
+
+2. Learning Outcome:
+- Learned how the Bellman-Ford algorithm finds the shortest path and detects negative weight cycles.
+- Understood the difference between textbook pseudocode (`:=`) and programming syntax (`=`).
+- Gained confidence in writing both the algorithm and Python code for practical exams.
+
+3. Challenges Faced:
+- Experienced heavy eyes, sleepiness, and shoulder pain after attending college.
+- Faced mild fatigue while getting back into the college routine after recovering from illness.
+
+4. Plan for Tomorrow:
+- Revise the Bellman-Ford Algorithm once.
+- Continue attending classes and manage energy levels.
+- Take thyroid medication on time and get adequate rest.
+- Begin preparing the next Computer Networks lab program.
+________________________________________________________________________________
