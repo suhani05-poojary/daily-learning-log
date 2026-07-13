@@ -2262,3 +2262,15 @@ Date: 2026-07-12
 3. Plan for Tomorrow:
 - Complete the app activation and check whether the updated mobile number is linked successfully.
 ________________________________________________________________________________
+Date: 2026-07-13
+
+1. Work Done:
+- Practiced the Bellman-Ford algorithm and Python program.
+- Identified and corrected an IndexError related to vertex numbering.
+
+2. Learning Outcome:
+- Understood Bellman-Ford implementation and the difference between 0-based and 1-based vertex numbering.
+
+3. Plan for Tomorrow:
+- Practice the algorithm and program again for better understanding.
+________________________________________________________________________________
