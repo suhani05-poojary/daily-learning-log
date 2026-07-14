@@ -2274,3 +2274,14 @@ Date: 2026-07-13
 3. Plan for Tomorrow:
 - Practice the algorithm and program again for better understanding.
 ________________________________________________________________________________
+Date: 2026-07-14
+
+1. Work Done:
+- Learned and prepared the Python program for the RSA algorithm.
+
+2. Learning Outcome:
+- Understood the basic process of RSA encryption and decryption.
+
+3. Plan for Tomorrow
+- Write and practice the RSA program for tomorrow’s class.
+________________________________________________________________________________
