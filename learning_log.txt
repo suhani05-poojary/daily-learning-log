@@ -2282,7 +2282,7 @@ Date: 2026-07-14
 2. Learning Outcome:
 - Understood the basic process of RSA encryption and decryption.
 
-3. Plan for Tomorrow
+3. Plan for Tomorrow:
 - Write and practice the RSA program for tomorrow’s class.
 ________________________________________________________________________________
 Date: 2026-07-15
@@ -2293,6 +2293,18 @@ Date: 2026-07-15
 2. Learning Outcome:
 - Improved understanding of the topics covered in class.
 
-3. Plan for Tomorrow
+3. Plan for Tomorrow:
 - Revise today’s concepts and complete pending work.
+________________________________________________________________________________
+Date: 2026-07-16
+
+1. Work Done:
+- Attended college classes.
+- Revised Bellman-Ford and RSA algorithms.
+
+2. Learning Outcome:
+- Strengthened understanding of graph algorithms and RSA implementation in Python.
+
+3. Plan for Tomorrow:
+- Practice more Python programs and revise today's class topics.
 ________________________________________________________________________________
