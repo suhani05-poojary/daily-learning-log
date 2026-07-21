@@ -2356,3 +2356,15 @@ Date: 2026-07-20
 3. Plan for Tomorrow:
 - Continue practicing different stitching techniques to improve speed and accuracy.
 ________________________________________________________________________________
+Date: 2026-07-21
+
+1. Work Done:
+- Learned the Leaky Bucket Algorithm and practiced its Python implementation.
+- Revised networking concepts related to traffic control.
+
+2. Learning Outcome:
+- Understood how the Leaky Bucket Algorithm regulates network traffic and improved confidence in implementing it in Python.
+
+3. Plan for Tomorrow:
+- Revise today's networking concepts and practice more Python programs.
+________________________________________________________________________________
