@@ -2368,3 +2368,18 @@ Date: 2026-07-21
 3. Plan for Tomorrow:
 - Revise today's networking concepts and practice more Python programs.
 ________________________________________________________________________________
+Date: 2026-07-22
+
+1. Work Done:
+- Explored various Computer Networks mini project ideas.
+- Selected "Smart Packet Sniffer and Protocol Analyzer using Python" as the project topic.
+- Learned about packet sniffing, network packets, and protocols such as TCP, UDP, and ICMP.
+- Understood the project's features, technologies, and team responsibilities.
+
+2. Learning Outcome:
+- Gained a clear understanding of how packet sniffers capture and analyze network traffic.
+- Improved my knowledge of networking protocols and real-time packet monitoring.
+
+3. Plan for Tomorrow:
+- Research Python libraries required for packet capturing (such as Scapy) and prepare the project design.
+________________________________________________________________________________
