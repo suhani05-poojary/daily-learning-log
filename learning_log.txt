@@ -2383,3 +2383,15 @@ Date: 2026-07-22
 3. Plan for Tomorrow:
 - Research Python libraries required for packet capturing (such as Scapy) and prepare the project design.
 ________________________________________________________________________________
+Date: 2026-07-23
+
+1. Work Done:
+- Learned about blood tests such as TSH, CBC, and Mini LFT.
+- Understood what these tests are used for and what health conditions they help evaluate.
+
+2. Learning Outcome:
+- Gained a basic understanding of thyroid, blood, and liver function tests and their medical significance.
+
+3. Plan for Tomorrow:
+- Revise today's concepts and continue practicing networking concepts and Python programming.
+________________________________________________________________________________
