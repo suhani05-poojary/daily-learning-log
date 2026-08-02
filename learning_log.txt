@@ -2535,3 +2535,20 @@ Date: 2026-08-01
 - Continue revising today's topics.
 - Practice related problems/programs to improve confidence and accuracy.
 ________________________________________________________________________________
+Date: 2026-08-02
+
+1. Work Done:
+- Learned about the IBM Expert Labs National Hackathon 2026 Round 1 assessment process.
+- Understood the HackerRank assessment format, including 2 programming questions to be completed in 60 minutes.
+- Decided to use Python for the coding assessment.
+- Planned the Python topics to revise before the assessment.
+
+2. Learning Outcome:
+- Gained a clear understanding of the HackerRank coding assessment process and how to solve and submit Python programming questions.
+- Identified the important Python concepts to focus on for preparation.
+
+3. Plan for Tomorrow:
+- Create and verify the HackerRank account.
+- Practice Python coding questions on HackerRank.
+- Revise Python basics, including loops, strings, lists, functions, and problem-solving techniques.
+________________________________________________________________________________
