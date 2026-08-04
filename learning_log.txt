@@ -2568,3 +2568,21 @@ Date: 2026-08-03
 - Continue learning the remaining important HackerRank programming questions, especially list-based and number-based problems.
 - Practice additional Python coding questions to improve speed and accuracy for the IBM assessment.
 _______________________________________________________________________________
+Date: 2026-08-04
+
+1. Work Done:
+- Attended the Soft Skills session at college.
+- Participated in the IBM Expert Labs National Hackathon Round 1 assessment.
+- Attempted two programming questions within the given 60-minute time limit.
+- Faced challenging problem statements involving substring logic and inventory management.
+- Applied basic Python concepts such as strings, slicing, loops, conditions, and counting while attempting the assessment.
+
+2. Learning Outcome:
+- Gained practical experience with a real coding assessment environment.
+- Understood that analyzing the problem statement and developing the correct logic are as important as knowing Python syntax.
+- Identified areas that need more practice, especially problem-solving and understanding longer programming questions.
+
+3. Plan for Improvement:
+- Practice intermediate-level coding problems and learn how to break lengthy problem statements into smaller steps.
+- Improve logical thinking and time management for future coding assessments.
+_______________________________________________________________________________
