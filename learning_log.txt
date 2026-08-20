@@ -2794,3 +2794,18 @@ Date: 2026-08-19
 3. Plan for Tomorrow:
 - Revise Operating System concepts in the morning and prepare for the examination.
 _______________________________________________________________________________
+Date: 2026-08-20
+
+1. Work Done:
+
+- As I was not feeling well, I did not attend the examination and took rest.
+- Studied and revised important concepts from Introduction to Data Science and Blockchain Technology for tomorrow’s examination.
+
+2. Learning Outcome:
+
+- Improved my understanding of important concepts and prepared for tomorrow’s examination.
+
+3. Plan for Tomorrow:
+
+- Revise Introduction to Data Science and Blockchain Technology and attend the examination.
+_______________________________________________________________________________
