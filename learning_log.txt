@@ -2933,3 +2933,27 @@ Date: 2026-08-27
 - Continue studying and revising academic concepts.
 - Prepare for the second round of the IBM Hackathon.
 _______________________________________________________________________________
+Date: 2026-08-28
+
+1. Work Done:
+
+- Continued working on my internship report for the Data Analytics internship.
+- Worked on Chapter 2 – Nature of Work Done and included the technologies, methodologies, and tasks performed during the internship.
+- Prepared the Daily/Weekly Work Summary for the four-week internship.
+- Reviewed the report content and made sure the actual tools and activities such as Python, Google Colab, Jupyter, SQL, Power BI, and Power Query were properly included.
+- Continued my regular academic studies and revision.
+
+2. Learning Outcome:
+
+- Learned how to document internship activities in a structured and professional manner.
+- Improved my understanding of how different Data Analytics tools were used during the internship.
+- Gained better understanding of organizing technical work into a formal internship report.
+- Improved my report formatting and documentation skills.
+
+3. Plan for Tomorrow:
+
+- Continue completing the remaining sections of the internship report.
+- Add and organize the required project details, results, and screenshots.
+- Continue studying and revising academic concepts.
+- Work on improving the overall presentation of the report.
+_______________________________________________________________________________
