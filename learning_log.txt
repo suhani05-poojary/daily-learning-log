@@ -3226,3 +3226,20 @@ Date: 2026-09-14
 - Strengthened my teamwork, communication, and problem-solving skills.
 - Gained confidence from participating in a national-level hackathon.
 ______________________________________________________________________________
+Date: 2026-09-27
+
+Work Done:
+- Restarted daily learning after a short break.
+- Started learning DSA using LeetCode with Python.
+- Solved my first LeetCode problem, "Running Sum of 1d Array".
+- Practiced understanding the logic, loops, lists, append(), and return in Python.
+
+Learning Outcome:
+- Understood the basic approach of solving a DSA problem step by step.
+- Learned how to maintain a running sum and store the results in a list.
+- Understood the difference between LeetCode's function template and the actual solution logic.
+
+Plan for Tomorrow:
+- Continue DSA practice with the next LeetCode problem.
+- Create and organize a GitHub repository for my DSA learning journey.
+______________________________________________________________________________
