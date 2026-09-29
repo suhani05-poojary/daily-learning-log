@@ -3263,3 +3263,20 @@ Plan for Tomorrow:
 - Focus on understanding the problem and finding the logic before writing code.
 - Add the completed problem to GitHub after getting it accepted on LeetCode.
 ______________________________________________________________________________
+Date: 2026-09-29
+
+Work Done:
+- Continued my DSA learning using LeetCode with Python.
+- Solved LeetCode 1470, "Shuffle the Array".
+- Practiced accessing elements using indexes and nums[i+n].
+- Added the completed problem to my DSA-LeetCode-Journey GitHub repository.
+
+Learning Outcome:
+- Understood how to split an array into two halves using the given n.
+- Learned how to alternate elements from the two halves.
+- Practiced using range(n), append(), and return in Python.
+
+Plan for Tomorrow:
+- Continue DSA practice with the next LeetCode problem.
+- Focus on understanding the problem and finding the logic before writing code.
+______________________________________________________________________________
