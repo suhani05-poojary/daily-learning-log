@@ -3296,3 +3296,20 @@ Plan for Tomorrow:
 - Go through today's problem and understand the code line by line.
 - Continue DSA practice with the next problem.
 ______________________________________________________________________________
+Date: 2026-10-01
+
+Work Done:
+- Continued my DSA learning using LeetCode with Python.
+- Solved LeetCode 1, "Two Sum".
+- Practiced using indexes and nested for loops to compare elements.
+- Added the completed problem to my DSA-LeetCode-Journey GitHub repository.
+
+Learning Outcome:
+- Understood the difference between an element and its index.
+- Learned how nested loops can be used to compare pairs of elements.
+- Practiced using range(), len(), and return in Python.
+
+Plan for Tomorrow:
+- Review the Two Sum solution and understand it line by line.
+- Continue with the next DSA problem and gradually increase the difficulty.
+______________________________________________________________________________
