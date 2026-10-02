@@ -3313,3 +3313,24 @@ Plan for Tomorrow:
 - Review the Two Sum solution and understand it line by line.
 - Continue with the next DSA problem and gradually increase the difficulty.
 ______________________________________________________________________________
+Date: 2026-10-02
+
+Work Done:
+- Continued my DSA learning using LeetCode with Python.
+- Solved LeetCode 217, "Contains Duplicate".
+- First tried a nested-loop approach to compare elements.
+- Learned that the approach can cause Time Limit Exceeded because of its O(n²) time complexity.
+- Learned how to use a set to store previously seen elements and improve the solution.
+- Added the completed problem to my DSA-LeetCode-Journey GitHub repository.
+
+Learning Outcome:
+- Understood the difference between a correct solution and an efficient solution.
+- Learned how nested loops can increase time complexity.
+- Learned the basic use of sets and the add() method in Python.
+- Understood how storing previously seen values can reduce the time complexity to O(n) on average.
+
+Plan for Tomorrow:
+- Review the Contains Duplicate set-based solution.
+- Practice identifying when a set can be useful in a DSA problem.
+- Continue with the next DSA problem.
+______________________________________________________________________________
