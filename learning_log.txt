@@ -3334,3 +3334,22 @@ Plan for Tomorrow:
 - Practice identifying when a set can be useful in a DSA problem.
 - Continue with the next DSA problem.
 ______________________________________________________________________________
+Date: 2026-10-03
+
+Work Done:
+- Continued my DSA learning using LeetCode with Python.
+- Solved LeetCode 121, "Best Time to Buy and Sell Stock".
+- Practiced finding the minimum price and calculating the maximum profit while traversing an array.
+- Added the completed problem to my DSA-LeetCode-Journey GitHub repository.
+
+Learning Outcome:
+- Understood how to keep track of the minimum value seen so far.
+- Learned how to calculate and update the maximum profit.
+- Practiced solving an array problem using a single loop.
+- Learned that the solution has O(n) time complexity and O(1) space complexity.
+
+Plan for Tomorrow:
+- Review LeetCode 121 and understand the solution line by line.
+- Continue with the next DSA problem.
+- Focus on identifying efficient solutions while solving array problems.
+______________________________________________________________________________
