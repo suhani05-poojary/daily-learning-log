@@ -3353,3 +3353,23 @@ Plan for Tomorrow:
 - Continue with the next DSA problem.
 - Focus on identifying efficient solutions while solving array problems.
 ______________________________________________________________________________
+Date: 2026-10-04
+
+Work Done:
+- Continued my DSA learning using LeetCode with Python.
+- Solved LeetCode 53, "Maximum Subarray".
+- Learned the basic idea of Kadane's Algorithm.
+- Practiced finding the maximum sum of a contiguous subarray.
+- Added the completed problem to my DSA-LeetCode-Journey GitHub repository.
+
+Learning Outcome:
+- Understood how to maintain a current sum and maximum sum while traversing an array.
+- Learned how to decide whether to continue the current subarray or start a new one.
+- Learned the basic concept of Kadane's Algorithm.
+- Practiced solving an array problem with O(n) time complexity and O(1) space complexity.
+
+Plan for Tomorrow:
+- Review LeetCode 53 and understand Kadane's Algorithm line by line.
+- Continue with the next DSA problem.
+- Focus on understanding the logic before memorizing the algorithm.
+______________________________________________________________________________
