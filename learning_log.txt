@@ -3373,3 +3373,23 @@ Plan for Tomorrow:
 - Continue with the next DSA problem.
 - Focus on understanding the logic before memorizing the algorithm.
 ______________________________________________________________________________
+Date: 2026-10-05
+
+Work Done:
+- Continued my DSA learning using LeetCode with Python.
+- Solved LeetCode 238, "Product of Array Except Self".
+- Learned the concept of prefix and suffix products.
+- Practiced traversing an array from both left to right and right to left.
+- Added the completed problem to my DSA-LeetCode-Journey GitHub repository.
+
+Learning Outcome:
+- Understood how to calculate the product of elements except the current element.
+- Learned how prefix and suffix products can be combined to solve an array problem efficiently.
+- Practiced using multiple loops to build an efficient solution.
+- Learned that the solution runs in O(n) time.
+
+Plan for Tomorrow:
+- Review the prefix and suffix approach used in today's problem.
+- Continue with the next DSA problem.
+- Focus on understanding the logic instead of memorizing the code.
+______________________________________________________________________________
