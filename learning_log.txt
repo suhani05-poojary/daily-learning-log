@@ -3393,3 +3393,22 @@ Plan for Tomorrow:
 - Continue with the next DSA problem.
 - Focus on understanding the logic instead of memorizing the code.
 ______________________________________________________________________________
+Date: 2026-10-06
+
+Work Done:
+- Continued my DSA learning using LeetCode with Python.
+- Solved LeetCode 268, "Missing Number".
+- Practiced using the mathematical formula for the sum of numbers from 0 to n.
+- Added the completed problem to my DSA-LeetCode-Journey GitHub repository.
+
+Learning Outcome:
+- Learned how to find a missing number using the expected sum of a sequence.
+- Practiced using len(), loops, arithmetic operations, and integer division in Python.
+- Learned how mathematical reasoning can help create an efficient O(n) solution.
+- Practiced solving an array problem with O(1) extra space.
+
+Plan for Tomorrow:
+- Review the Missing Number solution.
+- Continue with the next DSA problem.
+- Focus on understanding the logic before memorizing the code.
+______________________________________________________________________________
