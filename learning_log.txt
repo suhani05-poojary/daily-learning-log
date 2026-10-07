@@ -3412,3 +3412,24 @@ Plan for Tomorrow:
 - Continue with the next DSA problem.
 - Focus on understanding the logic before memorizing the code.
 ______________________________________________________________________________
+Date: 2026-10-07
+
+Work Done:
+- Continued my DSA learning using LeetCode with Python.
+- Solved LeetCode 189, "Rotate Array".
+- Practiced Python list slicing and array manipulation.
+- Learned how to handle rotation values larger than the array length.
+- Added the completed problem to my DSA-LeetCode-Journey GitHub repository.
+
+Learning Outcome:
+- Understood how to rotate an array to the right by k positions.
+- Learned how list slicing can be used to rearrange elements.
+- Learned the use of the modulo operator to handle large rotation values.
+- Practiced solving an array problem efficiently.
+
+Plan for Tomorrow:
+- Review the Rotate Array solution and understand the slicing logic.
+- Continue with the next DSA problem.
+- Keep practicing array patterns and Python fundamentals.
+______________________________________________________________________________
+
