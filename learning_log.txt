@@ -3452,3 +3452,24 @@ Plan for Tomorrow:
 - Continue with the next DSA problem.
 - Keep practicing array and pointer-based problems.
 ______________________________________________________________________________
+Date: 2026-10-09
+
+Work Done:
+- Continued my DSA learning using LeetCode with Python.
+- Solved LeetCode 283, "Move Zeroes".
+- Practiced moving non-zero elements while maintaining their original order.
+- Learned how to modify an array in place using indexes and loops.
+- Added the completed problem to my DSA-LeetCode-Journey GitHub repository.
+
+Learning Outcome:
+- Understood how to move all zeroes to the end of an array.
+- Learned how to use a position variable to place non-zero elements.
+- Practiced using for loops, while loops, conditions, and indexes.
+- Learned how to solve the problem with O(n) time complexity and O(1) extra space.
+
+Plan for Tomorrow:
+- Review the Move Zeroes solution and understand the position variable.
+- Continue with the next DSA problem.
+- Keep practicing array and pointer-based problems.
+______________________________________________________________________________
+
