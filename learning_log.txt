@@ -3472,4 +3472,25 @@ Plan for Tomorrow:
 - Continue with the next DSA problem.
 - Keep practicing array and pointer-based problems.
 ______________________________________________________________________________
+Date: 2026-10-10
+
+Work Done:
+- Continued my DSA learning using LeetCode with Python.
+- Solved LeetCode 26, "Remove Duplicates from Sorted Array".
+- Practiced modifying a sorted array in place.
+- Learned how to use indexes to keep unique elements.
+- Added the completed problem to my DSA-LeetCode-Journey GitHub repository.
+
+Learning Outcome:
+- Understood how to identify duplicate elements in a sorted array.
+- Practiced using indexes and loops to update array elements.
+- Learned how to return the count of unique elements.
+- Practiced solving an array problem with O(n) time complexity and O(1) extra space.
+
+Plan for Tomorrow:
+- Continue with the next LeetCode problem.
+- Try to understand the logic before checking the solution.
+- Keep updating my DSA-LeetCode-Journey GitHub repository.
+______________________________________________________________________________
+
 
