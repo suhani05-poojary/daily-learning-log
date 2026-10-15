@@ -1,4 +1,4 @@
-ooDate: 2026-02-25
+Date: 2026-02-25
 
 Today I practiced Python and GitHub.
 I learned about MongoDB and Machine Learning project integration.
@@ -3537,20 +3537,30 @@ Learning Outcome:
 
 Plan for Tomorrow:
 - Resume LeetCode practice and continue the DSA journey.
-
 ______________________________________________________________________________
 Date: 2026-10-14
 
 Work Done:
-
 - Took rest due to period pain.
 
 Learning Outcome:
-
 - No new learning today.
 
 Plan for Tomorrow:
-
 - Resume LeetCode practice and continue the DSA journey.
+______________________________________________________________________________
+Date: 2026-10-15
 
+Work Done:
+- Solved LeetCode 704 - Binary Search.
+- Implemented the binary search algorithm in Python.
+- Added the solution to the DSA-LeetCode-Journey GitHub repository.
+
+Learning Outcome:
+- Learned how binary search works on a sorted array.
+- Understood how to reduce the search range using left, right and mid.
+
+Plan for Tomorrow:
+- Continue with the next new LeetCode problem.
+- Practise implementing algorithms in Python.
 ______________________________________________________________________________
