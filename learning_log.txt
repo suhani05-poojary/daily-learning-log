@@ -3564,3 +3564,19 @@ Plan for Tomorrow:
 - Continue with the next new LeetCode problem.
 - Practise implementing algorithms in Python.
 ______________________________________________________________________________
+Date: 2026-10-16
+
+Work Done:
+- Completed revision of previously studied LeetCode problems.
+- Prepared a solution for LeetCode 35 - Search Insert Position.
+- Added the solution to the DSA-LeetCode-Journey GitHub repository.
+
+Learning Outcome:
+- Understood the basic idea of binary search.
+- Learned how binary search reduces the search range by half.
+
+Plan for Tomorrow:
+- Continue revision from Day 12 - LeetCode 88: Merge Sorted Array.
+- Continue the remaining problems in order.
+- Review today's binary search solution.
+______________________________________________________________________________
