@@ -3580,3 +3580,18 @@ Plan for Tomorrow:
 - Continue the remaining problems in order.
 - Review today's binary search solution.
 ______________________________________________________________________________
+Date: 2026-10-17
+
+Work Done:
+- Practiced LeetCode 977 - Squares of a Sorted Array.
+- Implemented a two-pointer solution in Python.
+- Prepared the solution for the DSA-LeetCode-Journey GitHub repository.
+
+Learning Outcome:
+- Learned how to square array elements and return them in sorted order.
+- Practiced using two pointers to solve an array problem efficiently.
+
+Plan for Tomorrow:
+- Revise today's solution and understand the two-pointer approach.
+- Continue with the next new LeetCode problem.
+______________________________________________________________________________
