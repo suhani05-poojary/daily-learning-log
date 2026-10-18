@@ -3595,3 +3595,18 @@ Plan for Tomorrow:
 - Revise today's solution and understand the two-pointer approach.
 - Continue with the next new LeetCode problem.
 ______________________________________________________________________________
+Date: 2026-10-18
+
+Work Done:
+- Practiced LeetCode 724 - Find Pivot Index.
+- Implemented a prefix-sum-based solution in Python.
+- Prepared the solution for the DSA-LeetCode-Journey GitHub repository.
+
+Learning Outcome:
+- Learned how to calculate left and right sums efficiently.
+- Understood how to find the pivot index in linear time.
+
+Plan for Tomorrow:
+- Continue solving new LeetCode problems.
+- Revise previously solved array problems when time permits.
+______________________________________________________________________________
