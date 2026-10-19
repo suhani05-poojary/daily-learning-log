@@ -3610,3 +3610,18 @@ Plan for Tomorrow:
 - Continue solving new LeetCode problems.
 - Revise previously solved array problems when time permits.
 ______________________________________________________________________________
+Date: 2026-10-19
+
+Work Done:
+- Practiced LeetCode 148 - Sort List.
+- Implemented merge sort for a linked list in Python.
+- Prepared the solution for the DSA-LeetCode-Journey GitHub repository.
+
+Learning Outcome:
+- Learned how to split a linked list using slow and fast pointers.
+- Understood how to merge two sorted linked lists.
+
+Plan for Tomorrow:
+- Continue solving a new LeetCode problem.
+- Revise previously solved problems when time permits.
+______________________________________________________________________________
