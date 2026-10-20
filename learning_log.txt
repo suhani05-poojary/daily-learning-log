@@ -3625,3 +3625,21 @@ Plan for Tomorrow:
 - Continue solving a new LeetCode problem.
 - Revise previously solved problems when time permits.
 ______________________________________________________________________________
+Date: 2026-10-20
+
+Work Done:
+- Revised previous LeetCode array problems from Day 13 to Day 18.
+- Solved LeetCode 136 - Single Number.
+- Learned how XOR works with binary numbers.
+- Compared different approaches for LeetCode 283 - Move Zeroes.
+
+Learning Outcome:
+- Understood how XOR cancels out repeated numbers.
+- Learned that XOR provides O(n) time complexity and O(1) extra space.
+- Understood two approaches for moving zeros to the end of an array.
+
+Plan for Tomorrow:
+- Revise LeetCode 136 - Single Number.
+- Continue revising the pending LeetCode problems.
+- Practise understanding XOR with more examples.
+______________________________________________________________________________
