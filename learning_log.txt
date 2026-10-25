@@ -3675,18 +3675,28 @@ ______________________________________________________________________________
 Date: 2026-10-24
 
 Work Done:
-
 - Participated in hackathon activities and worked on the project.
 - Did not practice LeetCode due to tiredness after the hackathon.
 
 Learning Outcome:
-
 - Gained practical experience through hackathon participation and project work.
 
 Plan for Tomorrow:
-
 - Resume the LeetCode DSA learning journey.
 - Revise previously solved problems and focus on understanding the logic independently.
-
 ______________________________________________________________________________
+Date: 2026-10-25
 
+Work Done:
+- Solved LeetCode 242 — Valid Anagram.
+- Practised string manipulation using Python.
+- Added the solution to the DSA-LeetCode-Journey GitHub repository.
+
+Learning Outcome:
+- Learned how sorting can be used to compare the letters of two strings.
+- Understood how to check whether two strings contain the same characters with the same frequencies.
+
+Plan for Tomorrow:
+- Continue solving new DSA problems.
+- Revise the concepts learned and maintain the GitHub repository.
+______________________________________________________________________________
