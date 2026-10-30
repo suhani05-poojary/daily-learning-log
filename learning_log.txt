@@ -3760,3 +3760,18 @@ Plan for Tomorrow:
 - Revise LeetCode 202 — Happy Number.
 - Continue practising new DSA problems.
 ______________________________________________________________________________
+Date: 2026-10-30
+
+Work Done:
+- Solved LeetCode 414 — Third Maximum Number.
+- Practised removing duplicate elements and sorting an array.
+- Added the solution to the DSA-LeetCode-Journey GitHub repository.
+
+Learning Outcome:
+- Understood how Python sets remove duplicate values.
+- Learned how sorting helps identify the third distinct maximum number.
+
+Plan for Tomorrow:
+- Revise LeetCode 414 — Third Maximum Number.
+- Continue practising new DSA problems.
+______________________________________________________________________________
