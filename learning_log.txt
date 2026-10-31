@@ -3775,3 +3775,18 @@ Plan for Tomorrow:
 - Revise LeetCode 414 — Third Maximum Number.
 - Continue practising new DSA problems.
 ______________________________________________________________________________
+Date: 2026-10-31
+
+Work Done:
+- Solved LeetCode 643 — Maximum Average Subarray I.
+- Practised the sliding window technique.
+- Added the solution to the DSA-LeetCode-Journey GitHub repository.
+
+Learning Outcome:
+- Understood how to calculate the maximum sum of a subarray of fixed length.
+- Learned how sliding windows reduce repeated calculations.
+
+Plan for Tomorrow:
+- Revise LeetCode 643 — Maximum Average Subarray I.
+- Continue practising new DSA problems.
+______________________________________________________________________________
