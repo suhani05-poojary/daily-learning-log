@@ -3790,3 +3790,18 @@ Plan for Tomorrow:
 - Revise LeetCode 643 — Maximum Average Subarray I.
 - Continue practising new DSA problems.
 ______________________________________________________________________________
+Date: 2026-11-01
+
+Work Done:
+- Solved LeetCode 118 — Pascal's Triangle.
+- Practised creating lists using nested loops.
+- Added the solution to the DSA-LeetCode-Journey GitHub repository.
+
+Learning Outcome:
+- Understood how each row of Pascal's Triangle is generated.
+- Learned how to calculate elements using values from the previous row.
+
+Plan for Tomorrow:
+- Revise LeetCode 118 — Pascal's Triangle.
+- Continue practising new DSA problems.
+______________________________________________________________________________
