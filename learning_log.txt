@@ -3805,3 +3805,18 @@ Plan for Tomorrow:
 - Revise LeetCode 118 — Pascal's Triangle.
 - Continue practising new DSA problems.
 ______________________________________________________________________________
+Date: 2026-11-02
+
+Work Done:
+- Solved LeetCode 13 — Roman to Integer.
+- Practised using dictionaries and conditional statements.
+- Added the solution to the DSA-LeetCode-Journey GitHub repository.
+
+Learning Outcome:
+- Understood how Roman numerals are converted into integer values.
+- Learned when to add and subtract values based on the next symbol.
+
+Plan for Tomorrow:
+- Revise LeetCode 13 — Roman to Integer.
+- Continue practising new DSA problems.
+______________________________________________________________________________
