@@ -3820,3 +3820,18 @@ Plan for Tomorrow:
 - Revise LeetCode 13 — Roman to Integer.
 - Continue practising new DSA problems.
 ______________________________________________________________________________
+Date: 2026-11-04
+
+Work Done:
+- Solved LeetCode 104 — Maximum Depth of Binary Tree.
+- Practised finding the depth of a binary tree using recursion.
+- Added the solution to the DSA-LeetCode-Journey GitHub repository.
+
+Learning Outcome:
+- Understood how recursion helps calculate the depth of a binary tree.
+- Learned how to find the maximum depth by comparing left and right subtrees.
+
+Plan for Tomorrow:
+- Revise LeetCode 104 — Maximum Depth of Binary Tree.
+- Continue practising new DSA problems.
+______________________________________________________________________________
