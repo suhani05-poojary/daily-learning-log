@@ -3835,3 +3835,18 @@ Plan for Tomorrow:
 - Revise LeetCode 104 — Maximum Depth of Binary Tree.
 - Continue practising new DSA problems.
 ______________________________________________________________________________
+Date: 2026-11-05
+
+Work Done:
+- Solved LeetCode 14 — Longest Common Prefix.
+- Practised comparing strings and checking prefixes.
+- Added the solution to the DSA-LeetCode-Journey GitHub repository.
+
+Learning Outcome:
+- Understood how to find the common starting characters among multiple strings.
+- Learned how to use startswith() and string slicing in Python.
+
+Plan for Tomorrow:
+- Revise LeetCode 14 — Longest Common Prefix.
+- Continue practising new DSA problems.
+______________________________________________________________________________
