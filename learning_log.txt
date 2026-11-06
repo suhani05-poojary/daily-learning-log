@@ -3850,3 +3850,18 @@ Plan for Tomorrow:
 - Revise LeetCode 14 — Longest Common Prefix.
 - Continue practising new DSA problems.
 ______________________________________________________________________________
+Date: 2026-11-06
+
+Work Done:
+- Solved LeetCode 392 — Is Subsequence.
+- Practised checking whether characters appear in the same order in two strings.
+- Added the solution to the DSA-LeetCode-Journey GitHub repository.
+
+Learning Outcome:
+- Understood how the two-pointer technique works with strings.
+- Learned how to check a subsequence without changing the original strings.
+
+Plan for Tomorrow:
+- Revise LeetCode 392 — Is Subsequence.
+- Continue practising new DSA problems.
+______________________________________________________________________________
