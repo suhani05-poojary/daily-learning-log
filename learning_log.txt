@@ -3865,3 +3865,18 @@ Plan for Tomorrow:
 - Revise LeetCode 392 — Is Subsequence.
 - Continue practising new DSA problems.
 ______________________________________________________________________________
+Date: 2026-11-07
+
+Work Done:
+- Solved LeetCode 1903 — Largest Odd Number in String.
+- Practised checking odd digits using conditional statements.
+- Added the solution to the DSA-LeetCode-Journey GitHub repository.
+
+Learning Outcome:
+- Understood how to identify the largest odd-valued substring.
+- Learned how to use reverse iteration and string slicing in Python.
+
+Plan for Tomorrow:
+- Revise LeetCode 1903 — Largest Odd Number in String.
+- Continue practising new DSA problems.
+______________________________________________________________________________
