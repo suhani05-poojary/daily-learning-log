@@ -3880,3 +3880,19 @@ Plan for Tomorrow:
 - Revise LeetCode 1903 — Largest Odd Number in String.
 - Continue practising new DSA problems.
 ______________________________________________________________________________
+Date: 2026-11-08
+
+Work Done:
+- Solved LeetCode 448 — Find All Numbers Disappeared in an Array.
+- Practised using array indices to identify missing numbers.
+- Added the solution to the DSA-LeetCode-Journey GitHub repository.
+
+Learning Outcome:
+- Understood how array indices can be used to mark numbers as visited.
+- Learned how negative marking helps identify missing numbers efficiently.
+- Practised solving an array problem in O(n) time.
+
+Plan for Tomorrow:
+- Revise LeetCode 448 — Find All Numbers Disappeared in an Array.
+- Continue practising new DSA problems.
+______________________________________________________________________________
