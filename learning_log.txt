@@ -3896,3 +3896,18 @@ Plan for Tomorrow:
 - Revise LeetCode 448 — Find All Numbers Disappeared in an Array.
 - Continue practising new DSA problems.
 ______________________________________________________________________________
+Date: 2026-11-10
+
+Work Done:
+- Solved LeetCode 796 — Rotate String.
+- Practised string concatenation and substring checking.
+- Added the solution to the DSA-LeetCode-Journey GitHub repository.
+
+Learning Outcome:
+- Understood how string concatenation can help identify rotations.
+- Learned how to check whether one string is present inside another string.
+
+Plan for Tomorrow:
+- Revise LeetCode 796 — Rotate String.
+- Continue practising new DSA problems.
+______________________________________________________________________________
