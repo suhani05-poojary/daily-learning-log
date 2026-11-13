@@ -3927,3 +3927,20 @@ Plan for Tomorrow:
 - Revise LeetCode 1207 — Unique Number of Occurrences.
 - Continue practising new DSA problems.
 ______________________________________________________________________________
+Date: 2026-11-13
+
+Work Done:
+- Practised LeetCode 303 - Range Sum Query: Immutable.
+- Implemented the NumArray class using prefix sums.
+- Learned how to calculate range sums efficiently.
+
+Learning Outcome:
+- Understood cumulative sum arrays.
+- Learned how prefix sums reduce repeated addition.
+- Understood how to calculate a range sum using subtraction.
+
+Plan for Tomorrow:
+- Practise another LeetCode problem.
+- Continue improving Python and problem-solving skills.
+- Update the GitHub repository.
+______________________________________________________________________________
