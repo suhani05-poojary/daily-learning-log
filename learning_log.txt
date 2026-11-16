@@ -3958,3 +3958,17 @@ Plan for Tomorrow:
 - Understand the prefix sum concept and practise the solution.
 - Upload the solution to the GitHub repository.
 ______________________________________________________________________________
+Date: 2026-11-16
+
+Work Done:
+- Could not practise LeetCode today due to stomach pain.
+- Was unable to do any coding or GitHub work.
+
+Learning Outcome:
+- No new LeetCode concepts were practised today.
+
+Plan for Tomorrow:
+- Resume the pending LeetCode 303 - Range Sum Query: Immutable.
+- Practise the solution and understand the prefix sum concept.
+- Update the GitHub repository.
+______________________________________________________________________________
