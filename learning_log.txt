@@ -3972,3 +3972,20 @@ Plan for Tomorrow:
 - Practise the solution and understand the prefix sum concept.
 - Update the GitHub repository.
 ______________________________________________________________________________
+Date: 2026-11-17
+
+Work Done:
+- Practised LeetCode 70 - Climbing Stairs.
+- Implemented an iterative solution using dynamic programming.
+- Prepared the solution for GitHub upload.
+
+Learning Outcome:
+- Understood the basic concept of dynamic programming.
+- Learned how to use previous results to calculate the next result.
+- Understood the relationship between the previous two steps.
+
+Plan for Tomorrow:
+- Practise another LeetCode problem.
+- Continue learning Python and dynamic programming.
+- Update the GitHub repository.
+______________________________________________________________________________
