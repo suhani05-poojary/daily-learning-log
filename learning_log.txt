@@ -3989,3 +3989,20 @@ Plan for Tomorrow:
 - Continue learning Python and dynamic programming.
 - Update the GitHub repository.
 ______________________________________________________________________________
+Date: 2026-11-18
+
+Work Done:
+- Practised LeetCode 746 - Min Cost Climbing Stairs.
+- Implemented an iterative solution using dynamic programming.
+- Added the solution to the GitHub repository.
+
+Learning Outcome:
+- Understood how to find the minimum cost using dynamic programming.
+- Learned how to use the min() function to choose the minimum cost.
+- Improved understanding of previous-state calculations.
+
+Plan for Tomorrow:
+- Practise another LeetCode problem.
+- Continue learning dynamic programming.
+- Maintain the GitHub repository.
+______________________________________________________________________________
