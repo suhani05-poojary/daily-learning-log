@@ -4024,3 +4024,20 @@ Plan for Tomorrow:
 - Resume LeetCode practice after the examination.
 - Continue updating the GitHub repository.
 ______________________________________________________________________________
+Date: 2026-11-20
+
+Work Done:
+- Practised LeetCode 509 - Fibonacci Number.
+- Implemented an iterative solution using dynamic programming.
+- Added the solution to the GitHub repository.
+
+Learning Outcome:
+- Understood the Fibonacci number sequence.
+- Learned how to calculate the next number using the previous two numbers.
+- Improved understanding of iterative dynamic programming.
+
+Plan for Tomorrow:
+- Practise another LeetCode problem.
+- Continue improving Python problem-solving skills.
+- Maintain the GitHub repository.
+______________________________________________________________________________
