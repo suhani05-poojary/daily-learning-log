@@ -4105,3 +4105,20 @@ Plan for Tomorrow:
 - Continue working on pending problems.
 - Update the GitHub repository.
 ______________________________________________________________________________
+Date: 2026-11-25
+
+Work Done:
+- Practised LeetCode 338 - Counting Bits.
+- Implemented a solution using dynamic programming and bit manipulation.
+- Added the solution to the GitHub repository.
+
+Learning Outcome:
+- Understood how to count set bits in binary numbers.
+- Learned how to use previously calculated results to solve new values.
+- Improved understanding of dynamic programming.
+
+Plan for Tomorrow:
+- Practise another LeetCode problem.
+- Revise dynamic programming and bit manipulation.
+- Continue updating the GitHub repository.
+______________________________________________________________________________
