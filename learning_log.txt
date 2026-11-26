@@ -4122,3 +4122,19 @@ Plan for Tomorrow:
 - Revise dynamic programming and bit manipulation.
 - Continue updating the GitHub repository.
 ______________________________________________________________________________
+Date: 2026-11-26
+
+Work Done:
+- Could not practise DSA today due to preparation for the end-semester examination.
+- Prepared for the Blockchain Technology examination scheduled for tomorrow.
+- Focused on revising important topics and concepts.
+
+Learning Outcome:
+- Revised important Blockchain Technology concepts.
+- Improved understanding of the topics covered for the examination.
+
+Plan for Tomorrow:
+- Attend the Blockchain Technology end-semester examination.
+- Resume LeetCode practice after the examination.
+- Continue updating the GitHub repository.
+______________________________________________________________________________
